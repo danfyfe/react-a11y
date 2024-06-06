@@ -1,6 +1,6 @@
 {
   "name": "@dans-coconuts/react-a11y",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React component library to help catch common accessibility issues and drive towards better WCAG compliance.",
   "main": "dist/index.js",
   "scripts": {
