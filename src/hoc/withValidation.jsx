@@ -1,4 +1,5 @@
 import validateChildren from "../utils/validateChildren";
+import React from "react";
 
 const withValidation = (Component, config) => {
   const WrappedComponent = ({ children, ...props }) => {
