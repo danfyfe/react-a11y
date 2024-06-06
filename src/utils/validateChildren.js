@@ -1,4 +1,4 @@
-import { isValidElement, React } from "react";
+import React, { isValidElement } from "react";
 
 const validateChildren = ({ children, config }) => {
   if (!children) throw new Error('Component must have children.');
